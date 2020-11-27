@@ -1,2 +1,2 @@
 # Unity-WebXR-Export
-Unity-WebXR-Export Basic
+AllinReality Sample Template for WebXR using Unity3D
